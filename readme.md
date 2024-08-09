@@ -1,7 +1,5 @@
 
-add all repos (gFiles, fnaf, etc)
-password for html
-interlink
+add server links, littleluke.online and unblocked bob.wiki.gd
 make proxy?
 
 
