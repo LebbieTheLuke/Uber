@@ -1,5 +1,4 @@
 
-add server links, littleluke.online and unblocked bob.wiki.gd
-make proxy?
+add sites to add and new server file
 
 
